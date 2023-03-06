@@ -6,22 +6,22 @@
 ### 42 Barcelona
 
 ### Java
-14/08/2022 - Java & Spring Framework - IT Academy
+Feb/22 - Sep22: Java & Spring Framework - IT Academy
 
 [Projects repositories](https://github.com/SrJupi/IT-Academy)
 
 [Certificate](https://certtun.vottun.com/badgedetail?id=a6c4ddc0-0585-44ad-9478-ad4d7d4f7122)
 
 ### Data Science
-30/03/2022 - Google Data Analytics Professional Certificate:
+Jul/21 - Aug/21 - Google Data Analytics Professional Certificate
 
 [Final Project](https://www.kaggle.com/code/lucassulzbachrilho/google-data-analytics-capstone-project-case-1)
 
 [Certificate](https://www.credly.com/badges/fa933971-b23b-45ab-919d-789be321efa7/public_url)
 
-19/05/2022 - IBM Data Science Professional Certificate
+Mar/21 - May/21: IBM Data Science Professional Certificate
 
-[Fianl Project](https://github.com/SrJupi/Applied-Data-Science-Capstone)
+[Final Project](https://github.com/SrJupi/Applied-Data-Science-Capstone)
 
 [Certificate](https://www.credly.com/badges/94901912-219f-4a47-8032-5903e57e6159/public_url)
 
