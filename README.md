@@ -1,5 +1,7 @@
 # 
 
+## Tech Stacks
+
 ## My Projects
 
 ### GameJams, Hackatons & Similiar  
@@ -21,3 +23,9 @@ Feb/22-Sep/22: [Java & Spring Framework - IT Academy](https://github.com/SrJupi/
 ### Data Science
 Jul/21-Aug/21: [Google Data Analytics Professional Certificate](https://www.kaggle.com/code/lucassulzbachrilho/google-data-analytics-capstone-project-case-1) - [Certificate](https://www.credly.com/badges/fa933971-b23b-45ab-919d-789be321efa7/public_url)  
 Mar/21-May/21: [IBM Data Science Professional Certificate](https://github.com/SrJupi/Applied-Data-Science-Capstone) - [Certificate](https://www.credly.com/badges/94901912-219f-4a47-8032-5903e57e6159/public_url)
+
+
+## Stats
+
+[![SrJupi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrJupi)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrJupi&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
