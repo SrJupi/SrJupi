@@ -1,7 +1,7 @@
 # 
 
 ## Tech Stacks
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" width="64"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/spring.svg" width="64"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" width="64">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" width="64"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/spring.svg" width="64"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" width="64"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/python.svg" width="64">
 
 ## My Projects
 
@@ -15,8 +15,9 @@ Jan/22 - [Global Game Jam 2022](https://github.com/antoniojesusnc/ggj22) - [Game
 
 ### [42 Barcelona](https://github.com/SrJupi/42-Barcelona)  
 
-May/22-Actual: [42 Cursus](https://github.com/SrJupi/42-Barcelona#42-cursus)  
-Mar/22-Apr/22: [C Piscine](https://github.com/SrJupi/42-Barcelona#c-piscine)  
+May/22-Actual: [42 Cursus](https://github.com/SrJupi/42-Barcelona#42-cursus-)  
+Apr/23-Jun/23: [Bootcamp Cybersecurity](https://github.com/SrJupi/42-Barcelona#bootcamp-cybersecurity-)  
+Mar/22-Apr/22: [C Piscine](https://github.com/SrJupi/42-Barcelona#c-piscine-)  
 
 ### Java
 Feb/22-Sep/22: [Java & Spring Framework - IT Academy](https://github.com/SrJupi/IT-Academy) - [Certificate](https://certtun.vottun.com/badgedetail?id=a6c4ddc0-0585-44ad-9478-ad4d7d4f7122)
