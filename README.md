@@ -16,8 +16,8 @@ Jan/22 - [Global Game Jam 2022](https://github.com/antoniojesusnc/ggj22) - [Game
 ### [42 Barcelona](https://github.com/SrJupi/42-Barcelona)  
 
 May/22-Actual: [42 Cursus](https://github.com/SrJupi/42-Barcelona#42-cursus-)  
-Apr/23-Jun/23: [Bootcamp Cybersecurity](https://github.com/SrJupi/42-Barcelona#bootcamp-cybersecurity-)  
-Mar/22-Apr/22: [C Piscine](https://github.com/SrJupi/42-Barcelona#c-piscine-)  
+Apr/23-Jun/23: [Bootcamp Cybersecurity](https://github.com/SrJupi/Bootcamp-Cybersecurity)  
+Mar/22-Apr/22: [C Piscine](https://github.com/SrJupi/C-piscine)  
 
 ### Java
 Feb/22-Sep/22: [Java & Spring Framework - IT Academy](https://github.com/SrJupi/IT-Academy) - [Certificate](https://certtun.vottun.com/badgedetail?id=a6c4ddc0-0585-44ad-9478-ad4d7d4f7122)
