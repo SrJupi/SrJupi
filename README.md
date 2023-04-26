@@ -7,9 +7,11 @@
 
 ### GameJams, Hackatons & Similiar  
 
+Dec/22 - Advent of Code ⭐x37  
 Jun/22 - [IT Academy Hackaton](https://github.com/SrJupi/hackaton-itacademy)  
 May/22 - [Schneider Eletrict Data Science Hackathon](https://github.com/SrJupi/Schneider-Eletrict-Hackathon)  
 Jan/22 - [Global Game Jam 2022](https://github.com/antoniojesusnc/ggj22) - [Game link](https://gamejolt.com/games/BiSanic/686165)  
+Dec/21 - Advent of Code ⭐x34
 
 ## My Courses
 
