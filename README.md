@@ -7,6 +7,9 @@
 
 ### GameJams, Hackatons & Similiar  
 
+Dec/24 - Advent of Code ⭐x45  
+Oct/24 - [The Game is HackathON - CaixaBank Tech](https://github.com/SrJupi/caixabanktech_hackaton)  
+Dec/23 - Advent of Code ⭐x40  
 Dec/22 - Advent of Code ⭐x37  
 Jun/22 - [IT Academy Hackaton](https://github.com/SrJupi/hackaton-itacademy)  
 May/22 - [Schneider Eletrict Data Science Hackathon](https://github.com/SrJupi/Schneider-Eletrict-Hackathon)  
@@ -17,7 +20,7 @@ Dec/21 - Advent of Code ⭐x34
 
 ### [42 Barcelona](https://github.com/SrJupi/42-Barcelona)  
 
-May/22-Actual: [42 Cursus](https://github.com/SrJupi/42-Barcelona#42-cursus-)  
+May/22-Jun/25: [42 Cursus](https://github.com/SrJupi/42-Barcelona#42-cursus-)  
 Apr/23-Jun/23: [Bootcamp Cybersecurity](https://github.com/SrJupi/Bootcamp-Cybersecurity)  
 Mar/22-Apr/22: [C Piscine](https://github.com/SrJupi/C-piscine)  
 
